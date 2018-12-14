@@ -1,0 +1,65 @@
+
+
+body {
+	font-style: normal;
+	font-family: Cambria;
+	color: white;
+
+}
+
+html  {
+	background: url(../image/1.jpg) no-repeat center center fixed;
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+}
+.header {
+	padding: 100px;
+	margin: 30px auto;
+	background-color: rgba(0,0,0,0.3);
+	border: 4px black solid;
+
+}
+
+.profile {
+
+	height: 250px;
+	width: 250px;
+	border-radius: 100%;
+
+}
+
+#aboutme {
+	padding: 70px;
+	margin: 30px auto;
+	background-color: rgba(0,0,0,0.3);
+	border: 4px black solid;
+}
+
+#education {
+	padding: 70px;
+	margin: 30px auto;
+	background-color: rgba(0,0,0,0.3);
+	border: 4px black solid;
+}
+#experience {
+	padding: 70px;
+	margin: 30px auto;
+	background-color: rgba(0,0,0,0.3);
+	border: 4px black solid;
+}
+
+#seminar {
+	padding: 70px;
+	margin: 30px auto;
+	background-color: rgba(0,0,0,0.3);
+	border: 4px black solid;
+}
+
+#last {
+	padding: 70px;
+	margin: 30px auto;
+	background-color: rgba(0,0,0,0.3);
+	border: 4px black solid;
+}
